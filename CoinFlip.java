@@ -39,5 +39,6 @@ public class CoinFlip {
 		System.out.println("Number of tails: "+tails);
 		System.out.println("Percentage of heads: "+headPercentage);
 		System.out.println("Percentage of tails: "+tailPercentage);
+		System.out.Println ("Programm is complited");
 	}
 }
