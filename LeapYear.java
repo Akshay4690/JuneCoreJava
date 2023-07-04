@@ -7,6 +7,9 @@ public class LeapYear {
 			
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the year: ");
+		
+		System.out.println("");
+		
 			
 		int year = sc.nextInt();
 			
